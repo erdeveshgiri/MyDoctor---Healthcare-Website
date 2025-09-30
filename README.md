@@ -169,7 +169,7 @@ text
 | Developer | Role | Contact |
 |-----------|------|---------|
 | **Devesh Giri** | Lead Developer | [er.deveshgiri@gmail.com](mailto:er.deveshgiri@gmail.com) |
-| **Uday Gaur** | Co-Developer | [uday.gaur@mydoctor.com](mailto:uday.gaur@mydoctor.com) |
+| **Uday Gaur** | Co-Developer | [uday.gaur@mydoctor.com](mailto:er.udaygaur@gmail.com) |
 
 ## 🤝 Contributing
 
